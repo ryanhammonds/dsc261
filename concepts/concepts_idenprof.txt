@@ -1,0 +1,228 @@
+chef
+doctor
+engineer
+farmer
+firefighter
+judge
+mechanic
+pilot
+police
+waiter
+
+male
+female
+man
+woman
+boy
+girl
+masculine
+feminine
+young
+old
+youthful
+elderly
+white
+black
+asian
+hispanic
+middle eastern
+native american
+caucasian
+african american
+light skin
+dark skin
+olive skin
+
+male chef
+female chef
+young chef
+old chef
+white chef
+black chef
+asian chef
+hispanic chef
+
+male doctor
+female doctor
+young doctor
+old doctor
+white doctor
+black doctor
+asian doctor
+middle eastern doctor
+
+male engineer
+female engineer
+young engineer
+old engineer
+white engineer
+black engineer
+asian engineer
+native american engineer
+
+male farmer
+female farmer
+young farmer
+old farmer
+white farmer
+black farmer
+asian farmer
+hispanic farmer
+
+male firefighter
+female firefighter
+young firefighter
+old firefighter
+white firefighter
+black firefighter
+asian firefighter
+
+male judge
+female judge
+young judge
+old judge
+white judge
+black judge
+asian judge
+
+male mechanic
+female mechanic
+young mechanic
+old mechanic
+white mechanic
+black mechanic
+asian mechanic
+
+male pilot
+female pilot
+young pilot
+old pilot
+white pilot
+black pilot
+asian pilot
+
+male police officer
+female police officer
+young police officer
+old police officer
+white police officer
+black police officer
+asian police officer
+
+male waiter
+female waiter
+young waiter
+old waiter
+white waiter
+black waiter
+asian waiter
+
+chef hat
+apron
+kitchen
+cooking utensils
+stove
+recipe book
+vegetables
+spices
+cutting board
+plates
+
+stethoscope
+lab coat
+doctor's office
+hospital
+medical chart
+syringe
+patient bed
+x-ray
+gloves
+medical mask
+
+hard hat
+blueprints
+construction site
+calculator
+computer
+engineering drawings
+safety goggles
+measuring tape
+tools
+desk
+
+tractor
+farm field
+crops
+barn
+farm animals
+overalls
+pitchfork
+haystack
+soil
+sunrise
+
+firefighter helmet
+fire hose
+fire truck
+flames
+protective gear
+fire station
+ladder
+smoke
+axe
+emergency scene
+
+gavel
+judge's robe
+courtroom
+scales of justice
+law books
+bench
+witness stand
+court documents
+microphone
+jury box
+
+wrench
+toolbox
+garage
+engine
+oil
+grease
+work gloves
+car lift
+screwdriver
+mechanic shop
+
+pilot uniform
+airplane cockpit
+control panel
+runway
+headset
+airplane window
+flight instruments
+sky
+air traffic control
+jet engine
+
+police badge
+uniform
+handcuffs
+police car
+radio
+gun
+siren
+police station
+notepad
+flashlight
+
+serving tray
+notepad
+restaurant
+table setting
+apron
+menu
+wine bottle
+customer service
+dining area
+order pad
